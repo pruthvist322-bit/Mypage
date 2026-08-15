@@ -3,7 +3,7 @@
 A Java 25 project built to practice the **Maven default build lifecycle**
 (validate → compile → test → package → verify → install → deploy), packaged
 as a deployable **WAR**, with a small styled front end — "Blueprint Garage",
-a spec-sheet style car showcase — served as the app's my jenkins pagee .
+a spec-sheet style car showcase — served as the app's my jenkins page .
 
 ## Project structure
 
