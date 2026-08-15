@@ -14,7 +14,7 @@
     <description>Practice project for walking through the Maven default build lifecycle (validate, compile, test, package, verify, install, deploy) - packaged as a deployable WAR with a car showcase UI</description>
 
     <properties>
-        <maven.compiler.release>25</maven.compiler.release>
+        <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.2</junit.version>
         <failOnMissingWebXml>true</failOnMissingWebXml>
@@ -48,7 +48,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.13.0</version>
                 <configuration>
-                    <release>25</release>
+                    <release>21</release>
                 </configuration>
             </plugin>
 
